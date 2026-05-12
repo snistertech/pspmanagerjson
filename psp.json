@@ -62,5 +62,26 @@
     "size": "1.xGB",
     "url": "https://www.romspedia.com/roms/playstation-3/call-of-duty-black-ops/download?speed=fast",
     "iconUrl": "https://static.romspedia.com/webp/roms/call-of-duty-black-ops-ps3-cover-340x483.webp"
+  },
+  {
+    "name": "Grand Theft Auto III",
+    "fileType": "zip",
+    "size": "1GB",
+    "url": "https://www.romspedia.com/roms/playstation-2/grand-theft-auto-iii-3/download?speed=fast",
+    "iconUrl": "https://static.romspedia.com/webp/roms/grand-theft-auto-III-ps2-cover-340x483.webp"
+  },
+  {
+    "name": "Kidou Senshi Gundam - Gundam Vs. Gundam NEXT PLUS (Japan)",
+    "fileType": "zip",
+    "size": "890MB",
+    "url": "https://www.romspedia.com/roms/playstation-portable/kidou-senshi-gundam-gundam-vs-gundam-next-plus-japan/download?speed=fast",
+    "iconUrl": "https://static.romspedia.com/webp/roms/kidou-senshi-gundam-gundam-vs-gundam-next-plus-psp-cover-japan-340x483.webp"
+  },
+  {
+    "name": "Naruto Shippuden - Narutimate Impact (Japan)",
+    "fileType": "zip",
+    "size": "671MB",
+    "url": "https://www.romspedia.com/roms/playstation-portable/naruto-shippuden-narutimate-impact-japan/download?speed=fast",
+    "iconUrl": "https://static.romspedia.com/webp/roms/naruto-shippuden-narutimate-impact-psp-cover-japan-340x483.webp"
   }
 ]
